@@ -7,7 +7,7 @@
 
 
     JotForm.parse = function(postContent, callback) {
-        postContent = postContent.replace(/<a href="(?:http?:\/\/)?(?:form\.jotform\.com)\/form\/?(.+)">.+<\/a>/g, embed);
+        postContent = postContent.replace(/<a href="(?:http?:\/\/)?(?:form\.jotformeu\.com)\/form\/?(.+)">.+<\/a>/g, embed);
         callback(null, postContent);
     };
 
