@@ -2,7 +2,7 @@
 	"id": "nodebb-plugin-jotform",
 	"name": "NodeBB JotForm Plugin",
 	"description": "NodeBB Plugin that allows users to embed JotForms inline in their posts.",
-	"url": "https://github.com/a5mith/nodebb-plugin-hearthis",
+	"url": "https://github.com/a5mith/nodebb-plugin-jotform",
 	"library": "./library.js",
 	"hooks": [
 		{ "hook": "filter:post.parse", "method": "parse", "callbacked": true }
