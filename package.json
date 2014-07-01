@@ -1,0 +1,32 @@
+{
+  "name": "nodebb-plugin-jotform",
+  "version": "0.0.1",
+  "description": "NodeBB JotForm Plugin",
+  "main": "library.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a5mith/nodebb-plugin-jotform"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "jotform",
+    "embed",
+    "forms"
+  ],
+  "author": {
+    "name": "a5mith",
+    "email": "aaronsmith91@sky.com"
+  },
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/a5mith/nodebb-plugin-jotform/issues"
+  },
+  "readme": "",
+  "readmeFilename": "README.md",
+  "_id": "nodebb-plugin-jotform@0.0.1",
+  "_from": "nodebb-plugin-jotform@~0.0.1"
+}
